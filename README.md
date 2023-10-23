@@ -1,14 +1,12 @@
 # CS-320-Software-Test-Automations-and-QA
 Unit and Integration Testing with Junit and Maven
 - How can I ensure that my code, program, or software is functional and secure?
-  - Quality Assurance
-    - The liturature and popular oppinion points out that we can reduce the risk of failure by working to hash out
+  - Quality Assurance through Software Testing
+    - The literature and popular opinion point out that we can reduce the risk of failure by working to hash out
     the right testing metrics for our code base and team to follow through with. Being able to organize and document
     the progressive development of code in a collaborative environment ensures that the right people get to
-    give feedback and correct for any failure within the projects system and design. Functionality and security are
-    more likely if we can clearly identify and document the level of test coverage; and that depends on the implementation
-    of testing that we choose to implement. Through quality assurance found through testing we seek to ensure that the code will be
-    less likely to fail because work was done and reviewed as an effort to protect it from failure by correcting for defects and pitfalls.
+    give feedback and correct for defects that can build up to become a costly failure. Functionality and security are
+    more likely if we can clearly identify and document the level of test coverage. 
 - How do I interpret user needs and incorporate them into a program?
   - Development Lifecycle
     - Using some form of test driven development in combination with a good feedback loop between stakeholders
